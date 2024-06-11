@@ -1,0 +1,77 @@
+1. Software Engineering is the systematic application of engineering principals and methods for the development and maintainance of softwares that perform various tasks.
+
+
+2. Software engineering differs from traditional programming in that it is much more complex in terms of how it is developed due to the fact that the world has evolved tremendously and digitisation continues to advance at unprecedented rates.
+
+
+3. Phases of Software Development Life Cycle (SDLC)
+
+    a. Requirements ~ Gathering and documenting what are the needs of the users and what are the system requirements.
+    b. Design ~ Creating detailed designs of the architecture and user interface
+    c. Implementation ~ Writing the code
+    d. Testing ~ Coducting tests to ensure that your software is running the way it should and whether it meets the standards.
+    e. Deployment ~ Releasing the software to users
+    f. Maintainance ~ Providing support and updates.
+
+
+4. (a) Agile Method
+        This is an iterative methodology ideal for long projects
+
+    (b) Waterfall Method
+        This is a sequential methodology with faces and is normally ideal for short projects
+
+
+5. Requirements Engineering deals with the process of developing and veryfying system requirements in order to ensure that the customers needs are met.
+
+
+6. Modularity in Software Design ~ This is dividing software into separate modules with each one of them being responsible for a different function.
+It improves maintainability and scalability because on is able to concentrate on one module at a time. This makes it easier to  and manage the code and also be able to improve your code easily as everything is easily understandable.
+
+
+7. Different Levels of Software Testing
+Software Testing is crucial as it enables developers assess and evaluate whether the software is ready to be used, and identify errors and application before releasing the same.
+
+    (a) Unit Testing ~ This tests whether the different functions are woking well on their own.
+
+    (b) Interration Testing ~ This tests all the functions as a group to determine whether they are working together well and how they interact with one another.
+
+    (c) System Testing ~ This tests the whole software as a complete application to evaluate how well it carries out it's purpose as intended. This ensures that the software meets all the clients' requirements.
+
+    (d) Acceptance Testing ~ This is the last phase and it evaluates whether the software is ready to be released for use.
+
+
+8. Version Control Systems (VCS)
+These are software tools used to track changes in source code maintaining records of every change and coordinating work among team members. 
+
+They are important because they help pinpoint errors when developers work concurrently helping to determine who submitted the problematic code and therefore be able to solve them.
+They also help reduce development time as the teams work more swiftly.
+They can also be used by developers understand code by revising through it
+
+Examples include Git, Github and Subversion.
+
+
+9. Software Project Manager
+~ A software Project Manager oversees the planning,  execution and delivery of software projects.
+
+~Challenges faced in managing software projects include;
+    (a) Unrealistic deadlines 
+    (b) Not enough planning ahead
+    (c) Lack of accountability
+    (d) Lack of risk management
+    (e) Budget management
+
+10. Software Maintanance
+~ This is the process of modyfying, changing and updating softwares to resolve errors and improve the performance. This helps the software run for a long time and also keep the consumer happy.
+
+Types of maintenance activities
+    (a) Corrective Maintenace - This helps in fixing defects and bugs.
+    (b) Adaptive Maintenance - This helps in adapting to the changing environment
+    (c) Perfective Maintenance - This aims in enhancing and adding new features to the software
+    (d) Preventative Maintenace - This includes making upgrades and changes so that your software can run for a long time
+
+
+11. Ethical Consideratins in Software Engineering
+~ Software Engineers should aim to create softwares that are inclusive for all and not discriminatory.
+~ The software should be legal.
+~ Should give appropriate credit for others intellectual property.
+
